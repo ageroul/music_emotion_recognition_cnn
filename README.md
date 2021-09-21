@@ -1,5 +1,3 @@
-# music_emotion_recognition_cnn
-
 
 # Emotion recognition in music using deep neural networks
 
