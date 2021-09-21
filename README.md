@@ -44,11 +44,11 @@ You can't actually run the code of the notebook "as is" because all datasets and
 
 ## License
 
-This project is licensed under the [MIT] License 
+This project is licensed under the MIT License 
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Finetunung torchvision models](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+* [Finetuning torchvision models](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 * [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch)
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
